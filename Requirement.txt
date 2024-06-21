@@ -1,0 +1,6 @@
+Spark version-3.4
+Java version -8 or 11
+h2o version -3.44.0.2
+sparkling-water-3.44.0.2-1-3.4
+
+
