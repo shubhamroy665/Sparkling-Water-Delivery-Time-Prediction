@@ -40,7 +40,7 @@ The `data` folder contains dataset files used for training and testing the model
 
 ## Images Folder
 
-The `sparkling_water_running_images` folder contains screenshots of project stages and outputs, including model training and prediction results.
+The `images` folder contains screenshots of project stages and outputs, including model training and prediction results.
 
 ## Running the Project
 
@@ -55,10 +55,10 @@ The Root Mean Square Error (RMSE) of our prediction model is 4.41.
 ### Screenshots
 
 - **Model Training Prediction:** 
-  ![Model Training Prediction](sparkling_water_running_images/model_training_prediction.png)
+  ![Model Training Prediction](images/model_training_prediction.png)
   
 - **Actual vs Predicted Delivery Time Plot:** 
-  ![Actual vs Predicted Delivery Time Plot](sparkling_water_running_images/prediction_plot.png)
+  ![Actual vs Predicted Delivery Time Plot](images/prediction_plot.png)
 
 ## Contributing
 
