@@ -1,0 +1,6 @@
+Project Work Outline:
+1.Create a multi node spark cluster. In our case we created cluster of 3 nodes. 
+2.Then in the driver/master node start a spark session and create h2o context which when submitted in the cluster will create h2o context in each worker node.
+3.Load the data in the cluster.
+4.Analyse and handle the missing values using pyspark provided libraries.
+5.Now for the model training and deployment part use h2o provided libraries.
