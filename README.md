@@ -1,4 +1,4 @@
-<img src=".images/zomato.jpeg" alt="Alt text" width="800" />
+<img src="./images/zomato.jpeg" alt="Alt text" width="800" />
 
 # Sparkling Water Delivery Time Prediction
 
